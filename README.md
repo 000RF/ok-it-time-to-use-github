@@ -12,4 +12,8 @@
 
 今天畫出Cloverleaf和SPT0125-47的譜線，老師說可以但smooth得太爛，好吧果然不能直接用Gaussian，不過我覺得有一部分真的是因為我橫軸拉太大，靠北
 
-我今天又裝了一次CASA+CARTA，已經裝第三還是第四次了
+我今天又裝了一次CASA+CARTA，已經裝第三還是第四次了，但有成功!!! 希望明天過去scriptForPI有成功跑動
+
+然後今天弄了很多種smoothing的方法，有binning、boxcar smoothing、Savitzky-Golay，很酷
+
+--------------------------
