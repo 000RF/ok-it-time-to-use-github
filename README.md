@@ -303,3 +303,9 @@ abstract有得想了zz
 8/13
 
 好了我失去興趣了，不當githuber了以後轉戰當pornhuber，請大家追蹤並訂閱，還有我的onlyfans
+
+--------------------------
+
+12/17
+
+真的申請一個pornhub帳號了，但當model還要申請+認證，超爛，所以要看到我成為pornhuber還要一段時間
